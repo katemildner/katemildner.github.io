@@ -22,7 +22,7 @@ title: Placeholder
 email: itsyehudit@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Make some popcorn and come and watch me struggle with stuff, while making other stuff.
-baseurl: "placeholder_blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username: itsyehudit
